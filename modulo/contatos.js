@@ -1,4 +1,4 @@
-const contatos = {
+export const contatos = {
   "whats-users": [
     {
       id: 1,
@@ -576,6 +576,6 @@ const contatos = {
   ],
 };
 
-module.exports = {
-  contatos,
-};
+// module.exports = {
+//   contatos,
+// };
