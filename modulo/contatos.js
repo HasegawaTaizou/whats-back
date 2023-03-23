@@ -221,7 +221,7 @@ export const contatos = {
         {
           name: "José Maria da Silva",
           description: "Developer",
-          image: "img/contact10.png",
+          image: "img/contact1.png",
           messages: [
             {
               sender: "me",
@@ -250,7 +250,7 @@ export const contatos = {
         {
           name: "John Guttemberg",
           description: "Free",
-          image: "img/contact20.png",
+          image: "img/contact2.png",
           messages: [
             {
               sender: "me",
@@ -278,7 +278,7 @@ export const contatos = {
         {
           name: "George Mikael",
           description: "Backend Developer",
-          image: "img/contact30.png",
+          image: "img/contact3.png",
           messages: [
             {
               sender: "me",
